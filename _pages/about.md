@@ -10,7 +10,40 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-This is Ali Izadi.
+## Research Interests:
+* **Causal discovery and inference** 
+* **Optimization**
+* **Generative modeling**
+
+
+<hr>
+## Education:
+* **Master of Science, Artificial Intelligence**, 2020 - present <br> [University of Tehran](https://ut.ac.ir/en)
+  
+* **Bachelor of Science, Computer Engineering - Software**, 2015, 2020 <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+
+<hr>
+## Academic Experience:
+* **Research Assistant at Computational Audio-Vision Lab** 2021 - present <br> [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir/)
+
+  * Researching on causal discovery algorithms using continuous optimization methods.
+
+<hr>
+
+## About:
+
+As a computer science student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence from computer vision to probabilistic graphical models. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> Besides working in data science companies I used to research in the field of machine learning, specifically **generative modeling**. The ability to model data in a way that we can generate new data is very interesting for me. I have experience with working and researching on the mechanism of different generative algorithms including **generative adversarial network**, **variational autoencoders**, and **normalizing flows**. <br><br>My most favorite areas in machine learning are those related to probability. Because of that, my main research interest in master degree started from **probabilistic graphical models** and their applications in generative modeling.<br><br> As I progressed in my research I got familiar with **causal inference**, a new field in machine learning with the aim of improving machine learning models in such a way that we can answer new prediction questions that deep learning or other usual ML models can not answer because they work based on correlation not **causation**. These questions are named **interventional** and **counterfactual** prediction tasks and can answer questions that we answer them before with treatment-control experiments which are expensive or impossible to conduct in some cases and we need **causal discovery** algorithms to find the causal variables of how our data really generated. I believe **causal representation learning** can help us to model our world better and really know how our machine learning algorithms work. <br><br>I hope that I will be able to contribute to this field and will propose new methods that improve tasks of causal discovery.
+
+<hr>
+
+## Work Experience:
+* **Data Scientist**, August 2020 - May 2021: [ParticleB](https://particleb.ai/)
+
+* **Data Developer**, July 2018 - May 2020: [Miras Technologies](https://www.linkedin.com/company/miras-tech/)
+
+
+  
+
 
 <!-- A data-driven personal website
 ======
@@ -21,11 +54,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
