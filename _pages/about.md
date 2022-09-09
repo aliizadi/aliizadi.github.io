@@ -10,39 +10,62 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
+I am a Master student of Artificial Intelligence at the school of [ECE university of Tehran](https://ece.ut.ac.ir/en/ece), Iran. I am also a research assistant at [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir) under supervision of Dr. [Reshad Hosseini](https://scholar.google.com/citations?user=zqa4EY0AAAAJ&hl=en) and Dr. [Mostafa Tavassolipour](https://scholar.google.com/citations?user=oVAT1lYAAAAJ&hl=en). My research focuses on the causal discovery algorithms using continuous optimization methods. Additionally, I am interested in generative modeling, especially of normalizing flow and variational auto encoder. 
+
+Before starting my Master, I received my B.Sc. degree from the Department of [Computer Engineering and Information Technology](https://ce.aut.ac.ir/index.php?sid=4&slc_lang=en), Amirkabir University of Technology, Tehran, Iran, in 2020, with my thesis on implementing a person recognition and tracking system. 
+
+I also have two years of experience as a junior to mid-level data scientist in [ParticleB](https://particleb.ai/) and [Miras Technologies](https://www.linkedin.com/company/miras-tech/). 
+
 ## Research Interests:
-* **Causal discovery and inference** 
-* **Optimization**
-* **Generative modeling**
+* Causal discovery and inference 
+* Optimization
+* Generative modeling
 
 
 <hr>
 ## Education:
-* **Master of Science, Artificial Intelligence**, 2020 - present <br> [University of Tehran](https://ut.ac.ir/en)
+* Master of Science, Artificial Intelligence, 2020 - present <br> [University of Tehran](https://ut.ac.ir/en)
   
-* **Bachelor of Science, Computer Engineering - Software**, 2015, 2020 <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
+* Bachelor of Science, Computer Engineering - Software, 2015, 2020 <br> [Amirkabir University of Technology, Tehran Polytechnic](https://aut.ac.ir/en)
 
 <hr>
-## Academic Experience:
-* **Research Assistant at Computational Audio-Vision Lab** 2021 - present <br> [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir/)
+## Research Experience
 
-  * Researching on causal discovery algorithms using continuous optimization methods.
+* Research Assistant at [Computational Audio-Vision Lab](https://visionlab.ut.ac.ir), June 2021 - Present
+
+  * Researching on causal discovery algorithms using continuous optimization methods
+under supervision of Dr. Reshad Hosseini and Dr. Mostafa Tavassolipour; Trying to
+introduce a new optimization method.
+
+
+* Bachelor Thesis: Person-Recognition, Spring 2020
+
+  * Designed and implemented Person Recognition System as Person Attendance Tracker
+using face recognition methods to track and record person’s identities in the videos
+captured from security cameras. Achieved more than 90% tracking and recognition
+accuracy in non-occluded and more than 80% in occluded areas. [(Link)](https://github.com/aliizadi/Person-Recognition)
+
+## News:
+
+**2022-09-05**: Checkout my technical report, [Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem](http://aliizadi.github.io/files/paper1.pdf).
+
+**2022-08-30**: I published a blog post on [Causal Normalizing flow](https://aliizadi.github.io/posts/2022/08/causal-normalizing-flow/), in which I discussed the idea of using normalizing flow for causal discovery.
+
+**2022-08-01**: I joined [Hooshbaaz](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool), a data analytics bootcamp at university of Tehran as a mentor. [(Link)](https://aliizadi.github.io/teaching/2022-8-data-analytics-bootcamp-mentor)
+
+**2021-08-10**: I attend Amirkabir Artificial Intelligence Student Summit as a workshop instructor on probabilsitc programming. Checkout my [blog post](https://aliizadi.github.io/posts/2021/08/probabilistic-programming/) about this workshop.
+
+**2019-11-01**: I gave a [talk](https://aliizadi.github.io/teaching/2019-11-machine-learning-interpretability) on machine learning Interpretability at Students’ Scientific Chapter of CEIT of Amirkabir University of Technology. 
+
 
 <hr>
 
-## About:
+## Bio:
 
 As a computer science student, **machine learning** and **artificial intelligence** has fascinated me because of the power they give to our understanding of the world and automation of our life. Due to the availability of huge amounts of data we are able to use machine learning and deep learning to analyze and model different tasks that humans can do.<br><br> I have explored and learned different areas of artificial intelligence from computer vision to probabilistic graphical models. As a data scientist I always tried to use machine learning in different areas including social network analysis and financial algorithmic trading.<br><br> Besides working in data science companies I used to research in the field of machine learning, specifically **generative modeling**. The ability to model data in a way that we can generate new data is very interesting for me. I have experience with working and researching on the mechanism of different generative algorithms including **generative adversarial network**, **variational autoencoders**, and **normalizing flows**. <br><br>My most favorite areas in machine learning are those related to probability. Because of that, my main research interest in master degree started from **probabilistic graphical models** and their applications in generative modeling.<br><br> As I progressed in my research I got familiar with **causal inference**, a new field in machine learning with the aim of improving machine learning models in such a way that we can answer new prediction questions that deep learning or other usual ML models can not answer because they work based on correlation not **causation**. These questions are named **interventional** and **counterfactual** prediction tasks and can answer questions that we answer them before with treatment-control experiments which are expensive or impossible to conduct in some cases and we need **causal discovery** algorithms to find the causal variables of how our data really generated. I believe **causal representation learning** can help us to model our world better and really know how our machine learning algorithms work. <br><br>I hope that I will be able to contribute to this field and will propose new methods that improve tasks of causal discovery.
 
+
 <hr>
-
-## Work Experience:
-* **Data Scientist**, August 2020 - May 2021: [ParticleB](https://particleb.ai/)
-
-* **Data Developer**, July 2018 - May 2020: [Miras Technologies](https://www.linkedin.com/company/miras-tech/)
-
-
-  
 
 
 <!-- A data-driven personal website

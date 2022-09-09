@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/continuous-causal-discovery-sytematic-review-and-graph-matching
+excerpt: 'Causal inference has an important role in different areas including machine learning, providing new modelings that can answer new prediction tasks. In order to do causal inference, we need to discover causal relationships between variables. There are different approaches for causal discovery from observational data including score-based methods. The primary objective of this systematic review is to identify different score-based methods that formulate the problem as a continuous optimization one. The results show that there are different challenges in causal discovery with continuous optimization including modifications applied to the objective function of causal discovery, the causality constraint of the optimization problem, and the optimization algorithm.
+Also, we reformulate the problem of causal discovery as a graph matching problem which is a concave quadratic program, introducing a new direction for researching on causal discovery by continuous optimization.'
+date: 2022-09-05
+venue: 'aliizadi.github.io/'
+paperurl: 'http://aliizadi.github.io/files/paper1.pdf'
+citation: 'Ali Izadi. (2022). &quot;Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem.&quot; <i>aliizadi.github.io</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Causal inference has an important role in different areas including machine learning, providing new modelings that can answer new prediction tasks. In order to do causal inference, we need to discover causal relationships between variables. There are different approaches for causal discovery from observational data including score-based methods. The primary objective of this systematic review is to identify different score-based methods that formulate the problem as a continuous optimization one. The results show that there are different challenges in causal discovery with continuous optimization including modifications applied to the objective function of causal discovery, the causality constraint of the optimization problem, and the optimization algorithm.
+Also, we reformulate the problem of causal discovery as a graph matching problem which is a concave quadratic program, introducing a new direction for researching on causal discovery by continuous optimization.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://aliizadi.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ali Izadi. (2022). "Systematic Review of Causal Discovery using continuous optimization. Reformulating causal discovery as a graph matching problem." <i>aliizadi.github.io</i>. 1(1).
