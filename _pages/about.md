@@ -16,6 +16,8 @@ Before starting my Master, I received my B.Sc. degree from the Department of [Co
 
 I also have two years of experience as a junior to mid-level data scientist in [ParticleB](https://particleb.ai/) and [Miras Technologies](https://www.linkedin.com/company/miras-tech/). 
 
+Download my [CV](http://aliizadi.github.io/files/Ali_Izadi_CV.pdf).
+
 ## Research Interests:
 * Causal discovery and inference 
 * Optimization
@@ -53,7 +55,7 @@ accuracy in non-occluded and more than 80% in occluded areas. [(Link)](https://g
 
 **2022-08-01**: I joined [Hooshbaaz](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool), a data analytics bootcamp at university of Tehran as a mentor. [(Link)](https://aliizadi.github.io/teaching/2022-8-data-analytics-bootcamp-mentor)
 
-**2021-08-10**: I attend Amirkabir Artificial Intelligence Student Summit as a workshop instructor on probabilsitc programming. Checkout my [blog post](https://aliizadi.github.io/posts/2021/08/probabilistic-programming/) about this workshop.
+**2021-08-10**: I attended Amirkabir Artificial Intelligence Student Summit as a workshop instructor on probabilsitc programming. Checkout my [blog post](https://aliizadi.github.io/posts/2021/08/probabilistic-programming/) about this workshop.
 
 **2019-11-01**: I gave a [talk](https://aliizadi.github.io/teaching/2019-11-machine-learning-interpretability) on machine learning Interpretability at Students’ Scientific Chapter of CEIT of Amirkabir University of Technology. 
 

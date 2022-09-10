@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my full [CV](http://aliizadi.github.io/files/Ali_Izadi_CV.pdf).
+
 ## Education
 * **M.S. in Artificial Intelligence**, University of Tehran, 2020 - 2022
 
