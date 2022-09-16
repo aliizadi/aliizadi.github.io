@@ -77,6 +77,7 @@ analytics:
   google:
     tracking_id          : G-7PFZ2VFD4J
 
+google_analytics: G-7PFZ2VFD4J
 
 # Site Author
 author:
@@ -96,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/aliizadi"
+  github           : "aliizadi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ali-izadi/"
+  linkedin         : "ali-izadi/"
   orcid            :
   pinterest        :
   soundcloud       :
